@@ -77,7 +77,7 @@ jarvis/
 │
 ├── jarvis.py              # Main Python script
 ├── README.md              # This file
-└── requirements.txt       # Optional, for pip install
+└── requirements.txt       #  for pip install
 📈 Future Improvements
 Add GUI interface
 
